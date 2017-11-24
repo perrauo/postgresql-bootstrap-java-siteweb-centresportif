@@ -313,7 +313,7 @@ BEGIN CREATE VIEWS
 --devrait etre une view ou une requete avec calcul de distance par rapport a la station meteo la plus proche
 CREATE OR REPLACE VIEW DISASTER_METEO AS
   WITH
-  disaster_closest_stations AS -- Plants ayant plus de trois observations
+  stations_disaster_closest AS -- Plants ayant plus de trois observations
   (
     SELECT * FROM
     (DISASTER_LOCATION JOIN LOCATION USING (location_id)) AS A
@@ -327,18 +327,41 @@ CREATE OR REPLACE VIEW DISASTER_METEO AS
         <
             get_dist(lanum(A.latitude), lonnum(A.longitude),
                  lanum(B.latitude), lonnum(B.longitude))
+  )),
+  stations_obs_date AS -- Plants ayant plus de trois observations
+  (
+      SELECT * FROM
+      (SELECT * FROM
+      TEMPERATURE
+      JOIN
+      WIND USING (_date, station_id)
+      JOIN
+      PRECIPITATION
+      USING (_date, station_id)) AS A
+      JOIN
+      WEATHER_STATION
+        USING (station_id)
   )
   SELECT
-  disaster_id,
-  disaster_closest_stations._date,
-  location_id,
-  temp_min,
-  temp_max,
-  gust_max,
-  gust_direction,
-  prec_rain,
-  prec_snow,
-  prec_total
+  stations_disaster_closest.disaster_id,
+  stations_obs_date._date,
+  stations_obs_date.longitude,
+  stations_obs_date.latitude,
+  stations_obs_date.temp_min,
+  stations_obs_date.temp_max,
+  stations_obs_date.gust_direction,
+  stations_obs_date.gust_max,
+  stations_obs_date.prec_rain,
+  stations_obs_date.prec_snow,
+  stations_obs_date.prec_total
+  FROM
+    stations_disaster_closest
+    JOIN
+    stations_obs_date
+    USING(station_id, _date);
+
+
+
 
 
 
