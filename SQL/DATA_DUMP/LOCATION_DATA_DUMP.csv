@@ -1,0 +1,300 @@
+location_text,Latitude,Longitude
+"Abbotsford, BC",49.060,122.300
+"Acton, ON",43.630,80.030
+"Airdrie, AB",51.300,114.020
+"Aldergrove, BC",49.060,122.500
+"Alliston, ON",44.150,79.870
+"Alma, QC",48.550,71.660
+"Amherst, NS",45.830,64.210
+"Amherstburg, ON",42.100,83.100
+"Amos, QC",48.570,78.140
+"Angus, ON",44.320,79.880
+"Arnprior, ON",45.430,76.370
+"Asbestos, QC",45.780,71.950
+"Aylmer, ON",42.780,80.980
+"Baie-Comeau, QC",49.220,68.160
+"Banff, AB",51.170,115.570
+"Barrie, ON",44.380,79.680
+"Bathurst, NB",47.620,65.650
+"Bay Roberts, NL",47.590,53.290
+"Beamsville, ON",43.170,79.470
+"Beaumont, AB",53.350,113.420
+"Belleville, ON",44.170,77.380
+"Beloeil, QC",45.550,73.230
+"Bolton, ON",43.880,79.730
+"Bonnyville, AB",54.270,110.750
+"Bowmanville, ON",43.900,78.680
+"Bracebridge, ON",45.030,79.300
+"Bradford, ON",44.120,79.560
+"Brandon, MB",49.840,99.960
+"Brantford, ON",43.150,80.260
+"Bridgewater, NS",44.380,64.520
+"Brockville, ON",44.610,75.700
+"Brooklin, ON",43.950,78.960
+"Brooks, AB",50.570,111.910
+"Buckingham, QC",45.580,75.420
+"Caledonia, ON",43.070,79.950
+"Calgary, AB",51.050,114.060
+"Campbell River, BC",49.990,125.230
+"Campbellton, NB",48.000,66.680
+"Camrose, AB",53.020,112.840
+"Canmore, AB",51.090,115.350
+"Carbonear, NL",47.750,53.240
+"Carleton Place, ON",45.130,76.130
+"Castlegar, BC",49.320,117.670
+"Okanagan Falls, BC",50.030,119.870
+"Charlottetown, PE",46.240,63.140
+"Chatham, ON",42.410,82.190
+"Douglastown, ON",47.030,65.460
+"Chibougamau, QC",49.870,74.350
+"Chicoutimi, QC",48.430,71.080
+"Chilliwack, BC",49.170,121.960
+"Coaldale, AB",49.730,112.620
+"Coaticook, QC",45.130,71.800
+"Cobourg, ON",43.960,78.170
+"Cochrane, AB",51.190,114.470
+"Collingwood, ON",44.490,80.210
+"Conception Bay South, NL",47.500,53.000
+"Corner Brook, NL",48.960,57.960
+"Cornwall, ON",45.030,74.740
+"Courtenay, BC",49.690,125.000
+"Cowansville, QC",45.210,72.750
+"Cranbrook, BC",49.510,115.770
+"Crystal Beach, ON",45.050,79.400
+"Dauphin, MB",51.150,100.050
+"Dawson Creek, BC",55.760,120.240
+"Dolbeau-Mistassini, QC",48.870,72.230
+"Donnacona, QC",46.670,71.730
+"Drayton Valley, AB",53.220,114.980
+"Drumheller, AB",51.470,112.710
+"Drummondville, QC",45.890,72.490
+"Dryden, ON",49.780,92.830
+"Duck Lake, SK",49.230,116.630
+"Duncan, BC",48.780,123.700
+"Dunnville, ON",42.910,79.620
+"Edmonton, AB",53.570,113.540
+"Edmundston, NB",47.380,68.340
+"Edson, AB",53.580,116.420
+"Elliot Lake, ON",46.390,82.660
+"Elmira, ON",43.600,80.550
+"Essex, ON",42.170,82.820
+"Estevan, SK",49.140,103.010
+"Farnham, QC",45.280,72.970
+"Fergus, ON",43.700,80.370
+"Flin Flon, MB",54.770,101.890
+"Fort Erie, ON",42.910,78.930
+"Fort Frances, ON",48.620,93.420
+"Fort St. John, BC",56.250,120.850
+"Fredericton, NB",45.960,66.660
+"Gananoque, ON",44.330,76.170
+"Gander, NL",48.950,54.650
+"Gatineau, QC",45.420,75.710
+"Georgetown, ON",43.660,79.930
+"Georgina, ON",44.270,79.250
+"Gibsons, BC",49.400,123.500
+"Glace Bay, NS",46.200,59.970
+"Goderich, ON",43.730,81.700
+" Granby, QC",45.410,72.730
+"Grand Centre, AB",54.420,110.220
+"Grand Falls, NB",47.050,67.730
+"Grand Falls-Windsor, NL",48.930,55.660
+"Grande Prairie, AB",55.180,118.800
+"Gravenhurst, ON",44.920,79.370
+"Guelph, ON",43.560,80.260
+"Haileybury, ON",47.430,79.630
+"Halifax, NS",44.670,63.610
+"Hamilton, ON",43.260,79.850
+"Hanover, ON",44.150,81.030
+"Happy Valley-Goose Bay, NL",53.340,60.400
+"Hauterive, QC",49.180,68.270
+"Hawkesbury, ON",45.620,74.600
+"High River, AB",50.580,113.870
+"Hinton, AB",53.400,117.580
+"Huntsville, ON",45.320,79.220
+"Ingersoll, ON",43.030,80.880
+"Innisfil, ON",44.260,79.640
+"Iqaluit, NU",63.740,68.550
+"Joliette, QC",46.030,73.450
+"Kamloops, BC",50.680,120.340
+"Kanata, ON",45.340,75.880
+"Kapuskasing, ON",49.430,82.420
+"Kelowna, BC",49.890,119.460
+"Kenora, ON",49.780,94.490
+"Kentville, NS",45.080,64.510
+"Kimberley, BC",49.680,115.980
+"Kincardine, ON",44.170,81.630
+"Kingston, ON",44.230,76.500
+"Kingston-greenwood, NS",44.980,64.900
+"Kirkland Lake, ON",48.170,80.030
+"Kitchener, ON",43.460,80.500
+"Kitimat, BC",54.010,128.700
+"La Sarre, QC",48.800,79.200
+"La Tuque, QC",47.440,72.780
+"Labrador City, NL",52.940,66.920
+"Lachute, QC",45.650,74.350
+"Lacombe, AB",52.470,113.730
+"Ladysmith, BC",48.990,123.820
+"Lavaltrie, QC",45.890,73.290
+"Leamington, ON",42.060,82.600
+"Leduc, AB",53.260,113.560
+"Les Coteaux, QC",45.300,74.220
+"Lethbridge, AB",49.690,112.830
+"Lindsay, ON",44.350,78.740
+"Listowel, ON",43.730,80.970
+"Lively, ON",46.430,81.150
+"Lloydminster, AB",53.280,110.010
+"London, ON",42.970,81.240
+"Louiseville, QC",46.250,72.930
+"Magog, QC",45.260,72.140
+"Marieville, QC",45.430,73.170
+"Matane, QC",48.850,67.530
+"Medicine Hat, AB",50.040,110.690
+"Merritt, BC",50.120,120.780
+"Midland, ON",44.750,79.890
+"Milton, ON",43.510,79.890
+"Moncton, NB",46.090,64.780
+"Mont-Joli, QC",48.580,68.180
+"Mont-Laurier, QC",46.550,65.750
+"Montmagny, QC",46.970,70.550
+"Montreal, QC",45.520,73.570
+"Moose Jaw, SK",50.390,105.540
+"Morden, MB",49.180,98.100
+"Morinville, AB",53.800,113.650
+"Nanaimo, BC",49.210,123.970
+"Nanticoke, ON",42.810,80.090
+"Napanee, ON",44.250,76.950
+"Nelson, BC",49.490,117.300
+"New Glasgow, NS",45.590,62.650
+"New Hamburg, ON",43.480,80.720
+"New Waterford, NS",46.260,60.110
+"North Battleford, SK",52.790,108.290
+"North Bay, ON",46.300,79.450
+"North cowichan, BC",48.820,123.730
+"Okotoks, AB",50.720,113.960
+"Olds, AB",51.780,114.100
+"Orangeville, ON",43.920,80.100
+"Orillia, ON",44.600,79.420
+"Oromocto, NB",45.850,66.470
+"Oshawa, ON",43.890,78.860
+"Ottawa, ON",45.420,75.710
+"Owen Sound, ON",44.570,80.940
+"Paris, ON",43.200,80.380
+"Parkhill, ON",49.330,124.330
+"Parry Sound, ON",45.330,80.030
+"Pembroke, ON",45.830,77.120
+"Penticton, BC",49.500,119.590
+"Perth, ON",44.880,76.230
+"Petawawa, ON",45.900,77.280
+"Peterborough, ON",44.300,78.340
+"Plessisville, QC",46.220,71.770
+"Ponoka, AB",52.680,113.570
+"Porcupine Plain, SK",48.470,81.200
+"Port Alberni, BC",49.270,124.820
+"Port Dover, ON",42.780,80.200
+"Port Elgin, ON",44.430,81.380
+"Port Hope, ON",43.960,78.300
+"Port Perry, ON",44.100,78.930
+"Portage la Prairie, MB",49.980,98.310
+"Port-alfred-bagotville, QC",48.330,70.880
+"Port-cartier, QC",50.040,66.860
+"Powell River, BC",49.850,124.520
+"Prince Albert, SK",53.200,105.750
+"Prince George, BC",53.910,122.770
+"Prince Rupert, BC",54.320,130.310
+"QC, QC",46.820,71.230
+"Quesnel, BC",52.980,122.480
+"Red Deer, AB",52.270,113.830
+"Regina, SK",50.450,104.610
+"Renfrew, ON",45.480,76.700
+"Revelstoke, BC",51.000,118.180
+"Rimouski, QC",48.440,68.540
+"Riviere-du-Loup, QC",47.840,69.540
+"Roberval, QC",48.520,72.240
+"Rockland, ON",45.530,75.280
+"Rocky Mountain House, AB",52.370,114.920
+"Rouyn-Noranda, QC",48.240,79.030
+"Saint catharines-niagara, ON",43.180,79.240
+"Saint john, ON",45.290,66.060
+"Saint john's, NB",47.580,52.690
+"Saint mary's, ON",43.250,81.130
+"Saint Thomas, QC",42.780,81.190
+"Sainte-agathe-des-monts, QC",46.030,74.280
+"Sainte-anne-des-monts, QC",49.120,66.480
+"Sainte-anne-des-plaines, QC",45.780,73.820
+"Sainte-marie, QC",46.430,71.020
+"Saint-felicien, QC",48.650,72.450
+"Saint-georges, QC",46.130,70.680
+"Saint-hyacinthe, QC",45.630,72.960
+"Saint-jean-sur-richelieu, QC",45.310,73.260
+"Saint-jerome, QC",45.780,74.000
+"Salaberry-de-Valleyfield, QC",45.260,74.140
+"Salmon Arm, BC",50.700,119.290
+"Sarnia, ON",42.990,82.400
+"Saskatoon, SK",52.150,106.660
+"Sault Ste. Marie, ON",46.530,84.350
+"Sechelt, BC",49.470,123.770
+"Selkirk, MB",50.140,96.890
+"Sept-Iles, QC",50.220,66.380
+"Shawinigan, QC",46.560,72.750
+"Sherbrooke, QC",45.400,71.900
+"Simcoe, ON",42.840,80.310
+"Slave Lake, AB",55.280,114.780
+"Smithers, BC",54.770,127.170
+"Smiths Falls, ON",44.910,76.020
+"Sooke, BC",48.380,123.730
+"Sorel, QC",46.050,73.140
+"Spruce Grove, AB",53.530,113.920
+"Squamish, BC",49.710,123.170
+"Steinbach, MB",49.520,96.680
+"Stephenville, NL",48.560,58.570
+"Stony Plain, AB",53.530,114.000
+"Stratford, ON",43.370,80.980
+"Strathmore, AB",51.040,113.400
+"Strathroy, ON",42.950,81.620
+"Sturgeon Falls, ON",46.370,79.930
+"Sudbury, ON",46.490,81.010
+"Summerland, BC",49.610,119.690
+"Summerside, NL",46.400,63.800
+"Sutton, ON",44.300,79.370
+"Swift Current, SK",50.300,107.800
+"Sydney, NS",46.200,59.970
+"Sylvan Lake, AB",52.310,114.100
+"Taber, AB",49.780,112.150
+"Terrace, BC",54.520,128.610
+"The Pas, MB",53.820,101.260
+"Thetford Mines, QC",46.100,71.310
+"Thompson, MB",55.740,97.860
+"Thunder Bay, ON",48.420,89.280
+"Tillsonburg, ON",42.870,80.730
+"Timmins, ON",48.490,81.350
+"Toronto, ON",43.650,79.380
+"Trail, BC",49.100,117.730
+"Trois-Rivieres, QC",46.350,72.570
+"Truro, NS",45.360,63.280
+"Uxbridge, ON",44.100,79.120
+"Val-d`Or, QC",48.110,77.790
+"Valley East, ON",46.640,81.010
+"Vancouver, BC",49.280,123.130
+"Vegreville, AB",53.500,112.050
+"Vernon, BC",50.270,119.280
+"Victoria, BC",48.430,123.370
+"Victoriaville, QC",46.060,71.960
+"Wallaceburg, ON",42.590,82.390
+"Walnut grove, BC",49.190,122.620
+"Wasaga Beach, ON",44.530,79.990
+"Wetaskiwin, AB",52.970,113.380
+"Weyburn, SK",49.670,103.860
+"Whistler, BC",50.130,122.970
+"Whitchurch-Stouffville, ON",43.970,79.250
+"White Rock, BC",49.030,122.830
+"Whitecourt, AB",54.130,115.680
+"Whitehorse, YT",60.730,135.050
+"Williams Lake, BC",52.130,122.140
+"Windsor, ON",42.300,83.030
+"Winkler, MB",49.180,97.930
+"Winnipeg, MB",49.880,97.170
+"Wood buffalo, AB",56.740,111.430
+"Woodstock, ON",43.130,80.760
+"Yarmouth, NS",43.840,66.120
+"Yellowknife, NT",62.460,114.360
+"Yorkton, SK",51.210,102.470
